@@ -1,0 +1,19 @@
+{
+    "name": "Kogane.AutoHideLayer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4c463756941cda2428cb358b10e83210",
+        "GUID:56fb13d5a243e624aa1e475ceb76e8eb"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
